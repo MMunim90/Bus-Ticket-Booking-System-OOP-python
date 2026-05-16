@@ -10,4 +10,4 @@ class => <br>
 
 clicks <br>
 
-![available bus seats-](https://i.ibb.co.com/23cXfFXn/1.png)
+![available bus seats-](https://i.ibb.co.com/NdxVzZNX/1.png)
